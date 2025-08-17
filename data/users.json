@@ -1,0 +1,61 @@
+{
+  "8316216845": {
+    "username": "Si900900",
+    "collection": [
+      "TANK-0031",
+      "TANK-0034",
+      "TANK-0097",
+      "TANK-0096",
+      "TANK-0009",
+      "TANK-0038",
+      "TANK-0039",
+      "TANK-0059",
+      "TANK-0045",
+      "TANK-0051"
+    ],
+    "opened_crates": 10,
+    "last_crate_time": 0,
+    "crates_today": 0,
+    "created_at": "2025-08-18 00:39:20"
+  },
+  "7359615620": {
+    "username": "Si90000",
+    "collection": [
+      "TANK-0047",
+      "TANK-0039"
+    ],
+    "opened_crates": 2,
+    "last_crate_time": 0,
+    "crates_today": 0,
+    "created_at": "2025-08-18 00:40:54"
+  },
+  "5582466794": {
+    "username": "see_147",
+    "collection": [
+      "TANK-0017"
+    ],
+    "opened_crates": 1,
+    "last_crate_time": 0,
+    "crates_today": 0,
+    "created_at": "2025-08-18 00:58:19"
+  },
+  "6844032009": {
+    "username": "VilkaNePon",
+    "collection": [
+      "TANK-0098",
+      "TANK-0050",
+      "TANK-0011",
+      "TANK-0012",
+      "TANK-0074",
+      "TANK-0053",
+      "TANK-0086",
+      "TANK-0077",
+      "TANK-0071",
+      "TANK-0042"
+    ],
+    "opened_crates": 10,
+    "last_crate_time": 1755468493.2238317,
+    "crates_today": 5,
+    "created_at": "2025-08-18 01:03:20"
+  }
+}
